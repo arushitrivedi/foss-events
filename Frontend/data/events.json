@@ -300,7 +300,16 @@
     "organisation": "HackinCodes",
     "location": "Online"
 
-  }    
+  },  
+  {
+    "title": "Open Summer of Code",
+    "website": "https://osoc.be/",
+    "start": "5/07/2021",
+    "end": "29/07/2021",
+    "organisation": "Open Knowledge Belgium",
+    "location": "Online"
+
+  }  
 
 
 
